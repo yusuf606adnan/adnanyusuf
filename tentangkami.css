@@ -1,0 +1,108 @@
+body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans',Open Sans;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.logo a {
+    font-size: 50px;
+    font-weight: 800;
+    float: left;
+    font-family: courier;
+    color:blueviolet;
+}
+section {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.kolom .qwe{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: 500;
+}
+h2 {
+    font-family: 'comic sans-ms';
+    font-weight: 800px;
+    font-size: 45px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #364f6b;
+    width: 100%;
+    line-height: 50px;
+}
+a.tbl-pink {
+    background: #fc5185;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+}
+p {
+    margin: 10px opx 10px 0px;
+    padding: 10px 0px 10px 0px;
+}
+a.tbl-biru {
+    background: #3f72af;
+    border-radius: w20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+}
+p {
+    margin: 10px opx 10px 0px;
+    padding: 10px 0px 10px 0px;
+}
+.img {
+    margin-top: 10px;
+    padding-top: 10px;
+
+}
+#contact {
+    background: #dedede;
+    padding: 50px 0px 50px 0px;
+   
+}
+
+.footer {
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: space-around;
+}
+
+.footer-section {
+    width: 20%;
+    margin: 0 auto;
+}
+
+h3 {
+    font-family: 'comic sans ms';
+    font-weight: 800;
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #364f6b;
+    width: 100%;
+    line-height: 50px;
+}    
+
+
